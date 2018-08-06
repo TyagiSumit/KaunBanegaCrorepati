@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "737905139036",
+    "firebase_url": "https://trackingapp-3b479.firebaseio.com",
+    "project_id": "trackingapp-3b479",
+    "storage_bucket": "trackingapp-3b479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737905139036:android:b387deeb87abb30d",
+        "android_client_info": {
+          "package_name": "com.learn.sumit.kaunbanegacrorepati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737905139036-4p47ie2g36lf6lfq9b71efdcm7ipu4da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learn.sumit.kaunbanegacrorepati",
+            "certificate_hash": "37ce1f811bacf6c1e99de0d8e76e888a389d0ebb"
+          }
+        },
+        {
+          "client_id": "737905139036-505t1pb7s8pktk9rqlgkp0bqtqg5jvl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-zNyaJZA1iQS1GZ5W59s0pVM4wlGbUms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737905139036-505t1pb7s8pktk9rqlgkp0bqtqg5jvl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
